@@ -1,0 +1,602 @@
+[Epoch 0] Val Loss: 0.7352
+[VAL] tas: RMSE=10.1411, Time-Mean RMSE=8.8085, Time-Stddev MAE=2.7555
+[VAL] pr: RMSE=3.4237, Time-Mean RMSE=2.0131, Time-Stddev MAE=1.9986
+[Epoch 0] Train Loss: 0.7815
+
+
+[Epoch 1] Val Loss: 0.4787
+[VAL] tas: RMSE=7.6445, Time-Mean RMSE=6.3889, Time-Stddev MAE=1.9377
+[VAL] pr: RMSE=3.1777, Time-Mean RMSE=1.5797, Time-Stddev MAE=2.0219
+[Epoch 1] Train Loss: 0.4871
+
+
+[Epoch 2] Val Loss: 0.4101
+[VAL] tas: RMSE=6.1401, Time-Mean RMSE=4.7046, Time-Stddev MAE=1.6783
+[VAL] pr: RMSE=3.0237, Time-Mean RMSE=1.2563, Time-Stddev MAE=1.9587
+[Epoch 2] Train Loss: 0.3680
+
+
+[Epoch 3] Val Loss: 0.3498
+[VAL] tas: RMSE=4.7571, Time-Mean RMSE=2.8660, Time-Stddev MAE=1.5861
+[VAL] pr: RMSE=2.8426, Time-Mean RMSE=0.7650, Time-Stddev MAE=1.9369
+[Epoch 3] Train Loss: 0.3209
+
+
+[Epoch 4] Val Loss: 0.3210
+[VAL] tas: RMSE=4.3778, Time-Mean RMSE=2.4741, Time-Stddev MAE=1.3604
+[VAL] pr: RMSE=2.7360, Time-Mean RMSE=0.6711, Time-Stddev MAE=1.6684
+[Epoch 4] Train Loss: 0.3218
+
+
+[Epoch 5] Val Loss: 0.3035
+[VAL] tas: RMSE=4.2876, Time-Mean RMSE=2.4717, Time-Stddev MAE=1.2248
+[VAL] pr: RMSE=2.6594, Time-Mean RMSE=0.5790, Time-Stddev MAE=1.5569
+[Epoch 5] Train Loss: 0.3190
+
+
+[Epoch 6] Val Loss: 0.2928
+[VAL] tas: RMSE=3.9686, Time-Mean RMSE=2.0098, Time-Stddev MAE=1.1610
+[VAL] pr: RMSE=2.6146, Time-Mean RMSE=0.4646, Time-Stddev MAE=1.5155
+[Epoch 6] Train Loss: 0.2669
+
+
+[Epoch 7] Val Loss: 0.2943
+[VAL] tas: RMSE=4.3890, Time-Mean RMSE=2.7840, Time-Stddev MAE=1.1252
+[VAL] pr: RMSE=2.6160, Time-Mean RMSE=0.5700, Time-Stddev MAE=1.3593
+[Epoch 7] Train Loss: 0.2262
+
+
+[Epoch 8] Val Loss: 0.2865
+[VAL] tas: RMSE=3.8191, Time-Mean RMSE=1.8163, Time-Stddev MAE=1.1166
+[VAL] pr: RMSE=2.6042, Time-Mean RMSE=0.5281, Time-Stddev MAE=1.3890
+[Epoch 8] Train Loss: 0.2268
+
+
+[Epoch 9] Val Loss: 0.3028
+[VAL] tas: RMSE=4.7646, Time-Mean RMSE=3.3921, Time-Stddev MAE=1.0384
+[VAL] pr: RMSE=2.6157, Time-Mean RMSE=0.6486, Time-Stddev MAE=1.3016
+[Epoch 9] Train Loss: 0.2970
+
+
+[Epoch 10] Val Loss: 0.2888
+[VAL] tas: RMSE=4.1711, Time-Mean RMSE=2.5483, Time-Stddev MAE=1.0965
+[VAL] pr: RMSE=2.6021, Time-Mean RMSE=0.6094, Time-Stddev MAE=1.3386
+[Epoch 10] Train Loss: 0.2246
+
+
+[Epoch 11] Val Loss: 0.2844
+[VAL] tas: RMSE=3.9267, Time-Mean RMSE=2.1302, Time-Stddev MAE=0.9270
+[VAL] pr: RMSE=2.5813, Time-Mean RMSE=0.5429, Time-Stddev MAE=1.2988
+[Epoch 11] Train Loss: 0.2371
+
+
+[Epoch 12] Val Loss: 0.2705
+[VAL] tas: RMSE=3.4982, Time-Mean RMSE=1.4024, Time-Stddev MAE=1.0209
+[VAL] pr: RMSE=2.5411, Time-Mean RMSE=0.4006, Time-Stddev MAE=1.3476
+[Epoch 12] Train Loss: 0.2516
+
+
+[Epoch 13] Val Loss: 0.2872
+[VAL] tas: RMSE=4.1547, Time-Mean RMSE=2.5831, Time-Stddev MAE=0.8682
+[VAL] pr: RMSE=2.5886, Time-Mean RMSE=0.6368, Time-Stddev MAE=1.2295
+[Epoch 13] Train Loss: 0.2587
+
+
+[Epoch 14] Val Loss: 0.2813
+[VAL] tas: RMSE=3.9655, Time-Mean RMSE=2.3142, Time-Stddev MAE=0.9409
+[VAL] pr: RMSE=2.5748, Time-Mean RMSE=0.6051, Time-Stddev MAE=1.2083
+[Epoch 14] Train Loss: 0.2665
+
+
+[Epoch 15] Val Loss: 0.2737
+[VAL] tas: RMSE=3.7103, Time-Mean RMSE=1.9301, Time-Stddev MAE=0.9753
+[VAL] pr: RMSE=2.5406, Time-Mean RMSE=0.4760, Time-Stddev MAE=1.3016
+[Epoch 15] Train Loss: 0.2788
+
+
+[Epoch 16] Val Loss: 0.2620
+[VAL] tas: RMSE=3.2753, Time-Mean RMSE=1.1025, Time-Stddev MAE=0.9157
+[VAL] pr: RMSE=2.5070, Time-Mean RMSE=0.4117, Time-Stddev MAE=1.2745
+[Epoch 16] Train Loss: 0.2459
+
+
+[Epoch 17] Val Loss: 0.2722
+[VAL] tas: RMSE=3.8791, Time-Mean RMSE=2.3273, Time-Stddev MAE=0.9306
+[VAL] pr: RMSE=2.5287, Time-Mean RMSE=0.5842, Time-Stddev MAE=1.2106
+[Epoch 17] Train Loss: 0.2160
+
+
+[Epoch 18] Val Loss: 0.2638
+[VAL] tas: RMSE=4.4193, Time-Mean RMSE=3.2408, Time-Stddev MAE=0.8689
+[VAL] pr: RMSE=2.4436, Time-Mean RMSE=0.5393, Time-Stddev MAE=1.0705
+[Epoch 18] Train Loss: 0.2346
+
+
+[Epoch 19] Val Loss: 0.2237
+[VAL] tas: RMSE=3.3950, Time-Mean RMSE=2.1593, Time-Stddev MAE=0.8322
+[VAL] pr: RMSE=2.2810, Time-Mean RMSE=0.5590, Time-Stddev MAE=0.9332
+[Epoch 19] Train Loss: 0.2284
+
+
+[Epoch 20] Val Loss: 0.2222
+[VAL] tas: RMSE=3.4670, Time-Mean RMSE=2.3410, Time-Stddev MAE=0.8641
+[VAL] pr: RMSE=2.2746, Time-Mean RMSE=0.6580, Time-Stddev MAE=0.8516
+[Epoch 20] Train Loss: 0.1831
+
+
+[Epoch 21] Val Loss: 0.2023
+[VAL] tas: RMSE=2.8726, Time-Mean RMSE=1.7187, Time-Stddev MAE=0.7023
+[VAL] pr: RMSE=2.2021, Time-Mean RMSE=0.5138, Time-Stddev MAE=0.8347
+[Epoch 21] Train Loss: 0.1792
+
+
+[Epoch 22] Val Loss: 0.2371
+[VAL] tas: RMSE=4.1441, Time-Mean RMSE=3.2857, Time-Stddev MAE=0.8455
+[VAL] pr: RMSE=2.3135, Time-Mean RMSE=0.7612, Time-Stddev MAE=0.8040
+[Epoch 22] Train Loss: 0.1799
+
+
+Error displaying widget: model not found
+[Epoch 23] Val Loss: 0.1988
+[VAL] tas: RMSE=3.1171, Time-Mean RMSE=2.1092, Time-Stddev MAE=0.7785
+[VAL] pr: RMSE=2.1659, Time-Mean RMSE=0.4705, Time-Stddev MAE=0.7447
+[Epoch 23] Train Loss: 0.1525
+
+
+[Epoch 24] Val Loss: 0.2053
+[VAL] tas: RMSE=3.0081, Time-Mean RMSE=1.9652, Time-Stddev MAE=0.6548
+[VAL] pr: RMSE=2.2054, Time-Mean RMSE=0.5165, Time-Stddev MAE=0.7507
+[Epoch 24] Train Loss: 0.1569
+
+
+[Epoch 25] Val Loss: 0.1952
+[VAL] tas: RMSE=2.5136, Time-Mean RMSE=1.2971, Time-Stddev MAE=0.6233
+[VAL] pr: RMSE=2.1742, Time-Mean RMSE=0.4906, Time-Stddev MAE=0.7252
+[Epoch 25] Train Loss: 0.1661
+
+
+[Epoch 26] Val Loss: 0.2058
+[VAL] tas: RMSE=3.0938, Time-Mean RMSE=2.1469, Time-Stddev MAE=0.7248
+[VAL] pr: RMSE=2.2099, Time-Mean RMSE=0.5771, Time-Stddev MAE=0.6714
+[Epoch 26] Train Loss: 0.1354
+
+
+[Epoch 27] Val Loss: 0.1874
+[VAL] tas: RMSE=2.9857, Time-Mean RMSE=2.2308, Time-Stddev MAE=0.6768
+[VAL] pr: RMSE=2.1120, Time-Mean RMSE=0.4714, Time-Stddev MAE=0.6520
+[Epoch 27] Train Loss: 0.1481
+
+
+[Epoch 28] Val Loss: 0.2035
+[VAL] tas: RMSE=2.8185, Time-Mean RMSE=1.7370, Time-Stddev MAE=0.6691
+[VAL] pr: RMSE=2.2046, Time-Mean RMSE=0.5087, Time-Stddev MAE=0.6822
+[Epoch 28] Train Loss: 0.1962
+
+
+[Epoch 29] Val Loss: 0.2047
+[VAL] tas: RMSE=2.7229, Time-Mean RMSE=1.6470, Time-Stddev MAE=0.6104
+[VAL] pr: RMSE=2.2180, Time-Mean RMSE=0.5206, Time-Stddev MAE=0.7026
+[Epoch 29] Train Loss: 0.1457
+
+
+[Epoch 30] Val Loss: 0.2097
+[VAL] tas: RMSE=2.9907, Time-Mean RMSE=2.0138, Time-Stddev MAE=0.6132
+[VAL] pr: RMSE=2.2376, Time-Mean RMSE=0.5390, Time-Stddev MAE=0.6963
+[Epoch 30] Train Loss: 0.1337
+
+
+[Epoch 31] Val Loss: 0.2186
+[VAL] tas: RMSE=3.3966, Time-Mean RMSE=2.5646, Time-Stddev MAE=0.6566
+[VAL] pr: RMSE=2.2706, Time-Mean RMSE=0.6152, Time-Stddev MAE=0.6629
+[Epoch 31] Train Loss: 0.1341
+
+
+[Epoch 32] Val Loss: 0.2187
+[VAL] tas: RMSE=3.1743, Time-Mean RMSE=2.1791, Time-Stddev MAE=0.6290
+[VAL] pr: RMSE=2.2756, Time-Mean RMSE=0.5393, Time-Stddev MAE=0.6613
+[Epoch 32] Train Loss: 0.1438
+
+
+[Epoch 33] Val Loss: 0.1996
+[VAL] tas: RMSE=2.7063, Time-Mean RMSE=1.7496, Time-Stddev MAE=0.5738
+[VAL] pr: RMSE=2.1909, Time-Mean RMSE=0.4771, Time-Stddev MAE=0.6922
+[Epoch 33] Train Loss: 0.1345
+
+
+[Epoch 34] Val Loss: 0.1997
+[VAL] tas: RMSE=2.5261, Time-Mean RMSE=1.3348, Time-Stddev MAE=0.5911
+[VAL] pr: RMSE=2.1984, Time-Mean RMSE=0.4164, Time-Stddev MAE=0.7115
+[Epoch 34] Train Loss: 0.1539
+
+
+[Epoch 35] Val Loss: 0.1967
+[VAL] tas: RMSE=2.3945, Time-Mean RMSE=1.1392, Time-Stddev MAE=0.5655
+[VAL] pr: RMSE=2.1828, Time-Mean RMSE=0.4010, Time-Stddev MAE=0.7264
+[Epoch 35] Train Loss: 0.1508
+
+
+[Epoch 36] Val Loss: 0.2064
+[VAL] tas: RMSE=2.8721, Time-Mean RMSE=1.8976, Time-Stddev MAE=0.5817
+[VAL] pr: RMSE=2.2205, Time-Mean RMSE=0.4656, Time-Stddev MAE=0.6788
+[Epoch 36] Train Loss: 0.1423
+
+
+[Epoch 37] Val Loss: 0.2021
+[VAL] tas: RMSE=2.7881, Time-Mean RMSE=1.8105, Time-Stddev MAE=0.5883
+[VAL] pr: RMSE=2.1978, Time-Mean RMSE=0.4484, Time-Stddev MAE=0.6674
+[Epoch 37] Train Loss: 0.1387
+
+
+[Epoch 38] Val Loss: 0.2027
+[VAL] tas: RMSE=2.7290, Time-Mean RMSE=1.6746, Time-Stddev MAE=0.5767
+[VAL] pr: RMSE=2.2053, Time-Mean RMSE=0.4400, Time-Stddev MAE=0.6777
+[Epoch 38] Train Loss: 0.1457
+
+
+[Epoch 39] Val Loss: 0.2045
+[VAL] tas: RMSE=2.8946, Time-Mean RMSE=1.9260, Time-Stddev MAE=0.5826
+[VAL] pr: RMSE=2.2083, Time-Mean RMSE=0.4678, Time-Stddev MAE=0.6781
+[Epoch 39] Train Loss: 0.1600
+
+
+[Epoch 40] Val Loss: 0.2077
+[VAL] tas: RMSE=2.9016, Time-Mean RMSE=1.9041, Time-Stddev MAE=0.5932
+[VAL] pr: RMSE=2.2286, Time-Mean RMSE=0.4488, Time-Stddev MAE=0.6634
+[Epoch 40] Train Loss: 0.1373
+
+
+[Epoch 41] Val Loss: 0.2046
+[VAL] tas: RMSE=2.7603, Time-Mean RMSE=1.7395, Time-Stddev MAE=0.5811
+[VAL] pr: RMSE=2.2173, Time-Mean RMSE=0.4543, Time-Stddev MAE=0.6662
+[Epoch 41] Train Loss: 0.1450
+
+
+[Epoch 42] Val Loss: 0.2059
+[VAL] tas: RMSE=2.8206, Time-Mean RMSE=1.8259, Time-Stddev MAE=0.5881
+[VAL] pr: RMSE=2.2207, Time-Mean RMSE=0.4615, Time-Stddev MAE=0.6522
+[Epoch 42] Train Loss: 0.1240
+
+
+[Epoch 43] Val Loss: 0.2001
+[VAL] tas: RMSE=2.6974, Time-Mean RMSE=1.7031, Time-Stddev MAE=0.5735
+[VAL] pr: RMSE=2.1947, Time-Mean RMSE=0.4369, Time-Stddev MAE=0.6699
+[Epoch 43] Train Loss: 0.1515
+
+
+[Epoch 44] Val Loss: 0.1984
+[VAL] tas: RMSE=2.5993, Time-Mean RMSE=1.5301, Time-Stddev MAE=0.5736
+[VAL] pr: RMSE=2.1872, Time-Mean RMSE=0.3994, Time-Stddev MAE=0.6753
+[Epoch 44] Train Loss: 0.1365
+
+
+[Epoch 45] Val Loss: 0.1997
+[VAL] tas: RMSE=2.6422, Time-Mean RMSE=1.5961, Time-Stddev MAE=0.5762
+[VAL] pr: RMSE=2.1940, Time-Mean RMSE=0.4146, Time-Stddev MAE=0.6753
+[Epoch 45] Train Loss: 0.1360
+
+
+[Epoch 46] Val Loss: 0.2031
+[VAL] tas: RMSE=2.7267, Time-Mean RMSE=1.6846, Time-Stddev MAE=0.5769
+[VAL] pr: RMSE=2.2095, Time-Mean RMSE=0.4204, Time-Stddev MAE=0.6730
+[Epoch 46] Train Loss: 0.1382
+
+
+[Epoch 47] Val Loss: 0.2008
+[VAL] tas: RMSE=2.6503, Time-Mean RMSE=1.5898, Time-Stddev MAE=0.5774
+[VAL] pr: RMSE=2.1991, Time-Mean RMSE=0.4114, Time-Stddev MAE=0.6747
+[Epoch 47] Train Loss: 0.1272
+
+
+[Epoch 48] Val Loss: 0.1990
+[VAL] tas: RMSE=2.6357, Time-Mean RMSE=1.6003, Time-Stddev MAE=0.5777
+[VAL] pr: RMSE=2.1898, Time-Mean RMSE=0.4099, Time-Stddev MAE=0.6681
+[Epoch 48] Train Loss: 0.1320
+
+
+[Epoch 49] Val Loss: 0.2014
+[VAL] tas: RMSE=2.6900, Time-Mean RMSE=1.6571, Time-Stddev MAE=0.5814
+[VAL] pr: RMSE=2.2015, Time-Mean RMSE=0.4132, Time-Stddev MAE=0.6627
+[Epoch 49] Train Loss: 0.1506
+
+
+[Epoch 50] Val Loss: 0.2027
+[VAL] tas: RMSE=2.7250, Time-Mean RMSE=1.6938, Time-Stddev MAE=0.5860
+[VAL] pr: RMSE=2.2073, Time-Mean RMSE=0.4156, Time-Stddev MAE=0.6626
+[Epoch 50] Train Loss: 0.1229
+
+
+[Epoch 51] Val Loss: 0.2005
+[VAL] tas: RMSE=2.6400, Time-Mean RMSE=1.5846, Time-Stddev MAE=0.5750
+[VAL] pr: RMSE=2.1978, Time-Mean RMSE=0.4044, Time-Stddev MAE=0.6694
+[Epoch 51] Train Loss: 0.1331
+
+
+[Epoch 52] Val Loss: 0.2026
+[VAL] tas: RMSE=2.7026, Time-Mean RMSE=1.6590, Time-Stddev MAE=0.5812
+[VAL] pr: RMSE=2.2077, Time-Mean RMSE=0.4184, Time-Stddev MAE=0.6613
+[Epoch 52] Train Loss: 0.1511
+
+
+[Epoch 53] Val Loss: 0.2022
+[VAL] tas: RMSE=2.7168, Time-Mean RMSE=1.6898, Time-Stddev MAE=0.5822
+[VAL] pr: RMSE=2.2049, Time-Mean RMSE=0.4193, Time-Stddev MAE=0.6635
+[Epoch 53] Train Loss: 0.1496
+
+
+[Epoch 54] Val Loss: 0.2015
+[VAL] tas: RMSE=2.6890, Time-Mean RMSE=1.6541, Time-Stddev MAE=0.5792
+[VAL] pr: RMSE=2.2018, Time-Mean RMSE=0.4139, Time-Stddev MAE=0.6641
+[Epoch 54] Train Loss: 0.1455
+
+
+[Epoch 55] Val Loss: 0.2034
+[VAL] tas: RMSE=2.7355, Time-Mean RMSE=1.7087, Time-Stddev MAE=0.5816
+[VAL] pr: RMSE=2.2098, Time-Mean RMSE=0.4212, Time-Stddev MAE=0.6594
+[Epoch 55] Train Loss: 0.1551
+
+
+[Epoch 56] Val Loss: 0.2019
+[VAL] tas: RMSE=2.6898, Time-Mean RMSE=1.6501, Time-Stddev MAE=0.5786
+[VAL] pr: RMSE=2.2038, Time-Mean RMSE=0.4128, Time-Stddev MAE=0.6627
+[Epoch 56] Train Loss: 0.1434
+
+
+[Epoch 57] Val Loss: 0.2017
+[VAL] tas: RMSE=2.6915, Time-Mean RMSE=1.6566, Time-Stddev MAE=0.5803
+[VAL] pr: RMSE=2.2026, Time-Mean RMSE=0.4135, Time-Stddev MAE=0.6616
+[Epoch 57] Train Loss: 0.1447
+
+
+[Epoch 58] Val Loss: 0.2029
+[VAL] tas: RMSE=2.7050, Time-Mean RMSE=1.6574, Time-Stddev MAE=0.5815
+[VAL] pr: RMSE=2.2091, Time-Mean RMSE=0.4099, Time-Stddev MAE=0.6630
+[Epoch 58] Train Loss: 0.1407
+
+
+[Epoch 59] Val Loss: 0.2020
+[VAL] tas: RMSE=2.6862, Time-Mean RMSE=1.6410, Time-Stddev MAE=0.5802
+[VAL] pr: RMSE=2.2050, Time-Mean RMSE=0.4104, Time-Stddev MAE=0.6612
+[Epoch 59] Train Loss: 0.1360
+
+
+[Epoch 60] Val Loss: 0.2022
+[VAL] tas: RMSE=2.6819, Time-Mean RMSE=1.6344, Time-Stddev MAE=0.5776
+[VAL] pr: RMSE=2.2053, Time-Mean RMSE=0.4116, Time-Stddev MAE=0.6643
+[Epoch 60] Train Loss: 0.1226
+
+
+[Epoch 61] Val Loss: 0.2023
+[VAL] tas: RMSE=2.6954, Time-Mean RMSE=1.6498, Time-Stddev MAE=0.5803
+[VAL] pr: RMSE=2.2057, Time-Mean RMSE=0.4096, Time-Stddev MAE=0.6634
+[Epoch 61] Train Loss: 0.1504
+
+
+[Epoch 62] Val Loss: 0.2024
+[VAL] tas: RMSE=2.6999, Time-Mean RMSE=1.6584, Time-Stddev MAE=0.5790
+[VAL] pr: RMSE=2.2064, Time-Mean RMSE=0.4101, Time-Stddev MAE=0.6633
+[Epoch 62] Train Loss: 0.1298
+
+
+[Epoch 63] Val Loss: 0.2036
+[VAL] tas: RMSE=2.7235, Time-Mean RMSE=1.6764, Time-Stddev MAE=0.5803
+[VAL] pr: RMSE=2.2120, Time-Mean RMSE=0.4109, Time-Stddev MAE=0.6647
+[Epoch 63] Train Loss: 0.1275
+
+
+[Epoch 64] Val Loss: 0.2026
+[VAL] tas: RMSE=2.7043, Time-Mean RMSE=1.6653, Time-Stddev MAE=0.5772
+[VAL] pr: RMSE=2.2072, Time-Mean RMSE=0.4135, Time-Stddev MAE=0.6641
+[Epoch 64] Train Loss: 0.1381
+
+
+[Epoch 65] Val Loss: 0.2030
+[VAL] tas: RMSE=2.7566, Time-Mean RMSE=1.7533, Time-Stddev MAE=0.5814
+[VAL] pr: RMSE=2.2077, Time-Mean RMSE=0.4217, Time-Stddev MAE=0.6555
+[Epoch 65] Train Loss: 0.1392
+
+
+[Epoch 66] Val Loss: 0.2005
+[VAL] tas: RMSE=2.6797, Time-Mean RMSE=1.6628, Time-Stddev MAE=0.5749
+[VAL] pr: RMSE=2.1957, Time-Mean RMSE=0.4116, Time-Stddev MAE=0.6616
+[Epoch 66] Train Loss: 0.1607
+
+
+[Epoch 67] Val Loss: 0.2011
+[VAL] tas: RMSE=2.6790, Time-Mean RMSE=1.6401, Time-Stddev MAE=0.5803
+[VAL] pr: RMSE=2.1994, Time-Mean RMSE=0.4058, Time-Stddev MAE=0.6613
+[Epoch 67] Train Loss: 0.1279
+
+
+[Epoch 68] Val Loss: 0.2013
+[VAL] tas: RMSE=2.6806, Time-Mean RMSE=1.6414, Time-Stddev MAE=0.5792
+[VAL] pr: RMSE=2.2013, Time-Mean RMSE=0.4070, Time-Stddev MAE=0.6637
+[Epoch 68] Train Loss: 0.1335
+
+
+[Epoch 69] Val Loss: 0.2026
+[VAL] tas: RMSE=2.6763, Time-Mean RMSE=1.6140, Time-Stddev MAE=0.5767
+[VAL] pr: RMSE=2.2077, Time-Mean RMSE=0.4061, Time-Stddev MAE=0.6671
+[Epoch 69] Train Loss: 0.1373
+
+
+[Epoch 70] Val Loss: 0.2031
+[VAL] tas: RMSE=2.7199, Time-Mean RMSE=1.6823, Time-Stddev MAE=0.5807
+[VAL] pr: RMSE=2.2096, Time-Mean RMSE=0.4131, Time-Stddev MAE=0.6616
+[Epoch 70] Train Loss: 0.1495
+
+
+[Epoch 71] Val Loss: 0.2035
+[VAL] tas: RMSE=2.7280, Time-Mean RMSE=1.6917, Time-Stddev MAE=0.5821
+[VAL] pr: RMSE=2.2113, Time-Mean RMSE=0.4136, Time-Stddev MAE=0.6586
+[Epoch 71] Train Loss: 0.1450
+
+
+[Epoch 72] Val Loss: 0.2040
+[VAL] tas: RMSE=2.7641, Time-Mean RMSE=1.7429, Time-Stddev MAE=0.5844
+[VAL] pr: RMSE=2.2129, Time-Mean RMSE=0.4220, Time-Stddev MAE=0.6578
+[Epoch 72] Train Loss: 0.1487
+
+
+[Epoch 73] Val Loss: 0.2032
+[VAL] tas: RMSE=2.7100, Time-Mean RMSE=1.6595, Time-Stddev MAE=0.5815
+[VAL] pr: RMSE=2.2107, Time-Mean RMSE=0.4067, Time-Stddev MAE=0.6610
+[Epoch 73] Train Loss: 0.1461
+
+
+[Epoch 74] Val Loss: 0.2025
+[VAL] tas: RMSE=2.6833, Time-Mean RMSE=1.6254, Time-Stddev MAE=0.5787
+[VAL] pr: RMSE=2.2079, Time-Mean RMSE=0.4045, Time-Stddev MAE=0.6618
+[Epoch 74] Train Loss: 0.1684
+
+
+[Epoch 75] Val Loss: 0.2032
+[VAL] tas: RMSE=2.7040, Time-Mean RMSE=1.6519, Time-Stddev MAE=0.5806
+[VAL] pr: RMSE=2.2106, Time-Mean RMSE=0.4087, Time-Stddev MAE=0.6589
+[Epoch 75] Train Loss: 0.1235
+
+
+[Epoch 76] Val Loss: 0.2038
+[VAL] tas: RMSE=2.7274, Time-Mean RMSE=1.6826, Time-Stddev MAE=0.5801
+[VAL] pr: RMSE=2.2135, Time-Mean RMSE=0.4098, Time-Stddev MAE=0.6595
+[Epoch 76] Train Loss: 0.1364
+
+
+[Epoch 77] Val Loss: 0.2022
+[VAL] tas: RMSE=2.6811, Time-Mean RMSE=1.6249, Time-Stddev MAE=0.5788
+[VAL] pr: RMSE=2.2068, Time-Mean RMSE=0.4039, Time-Stddev MAE=0.6615
+[Epoch 77] Train Loss: 0.1376
+
+
+[Epoch 78] Val Loss: 0.2026
+[VAL] tas: RMSE=2.6884, Time-Mean RMSE=1.6340, Time-Stddev MAE=0.5789
+[VAL] pr: RMSE=2.2084, Time-Mean RMSE=0.4040, Time-Stddev MAE=0.6609
+[Epoch 78] Train Loss: 0.1566
+
+
+[Epoch 79] Val Loss: 0.2032
+[VAL] tas: RMSE=2.7132, Time-Mean RMSE=1.6713, Time-Stddev MAE=0.5786
+[VAL] pr: RMSE=2.2107, Time-Mean RMSE=0.4079, Time-Stddev MAE=0.6600
+[Epoch 79] Train Loss: 0.1274
+
+
+[Epoch 80] Val Loss: 0.2027
+[VAL] tas: RMSE=2.6961, Time-Mean RMSE=1.6454, Time-Stddev MAE=0.5809
+[VAL] pr: RMSE=2.2090, Time-Mean RMSE=0.4050, Time-Stddev MAE=0.6579
+[Epoch 80] Train Loss: 0.1527
+
+
+[Epoch 81] Val Loss: 0.2033
+[VAL] tas: RMSE=2.7308, Time-Mean RMSE=1.6969, Time-Stddev MAE=0.5838
+[VAL] pr: RMSE=2.2102, Time-Mean RMSE=0.4110, Time-Stddev MAE=0.6555
+[Epoch 81] Train Loss: 0.1288
+
+
+[Epoch 82] Val Loss: 0.2044
+[VAL] tas: RMSE=2.7378, Time-Mean RMSE=1.6870, Time-Stddev MAE=0.5827
+[VAL] pr: RMSE=2.2161, Time-Mean RMSE=0.4093, Time-Stddev MAE=0.6578
+[Epoch 82] Train Loss: 0.1480
+
+
+[Epoch 83] Val Loss: 0.2034
+[VAL] tas: RMSE=2.7263, Time-Mean RMSE=1.6833, Time-Stddev MAE=0.5824
+[VAL] pr: RMSE=2.2114, Time-Mean RMSE=0.4098, Time-Stddev MAE=0.6571
+[Epoch 83] Train Loss: 0.1375
+
+
+[Epoch 84] Val Loss: 0.2030
+[VAL] tas: RMSE=2.7300, Time-Mean RMSE=1.6998, Time-Stddev MAE=0.5831
+[VAL] pr: RMSE=2.2085, Time-Mean RMSE=0.4083, Time-Stddev MAE=0.6570
+[Epoch 84] Train Loss: 0.1580
+
+
+[Epoch 85] Val Loss: 0.2048
+[VAL] tas: RMSE=2.7645, Time-Mean RMSE=1.7322, Time-Stddev MAE=0.5856
+[VAL] pr: RMSE=2.2171, Time-Mean RMSE=0.4148, Time-Stddev MAE=0.6525
+[Epoch 85] Train Loss: 0.1259
+
+
+[Epoch 86] Val Loss: 0.2027
+[VAL] tas: RMSE=2.7102, Time-Mean RMSE=1.6714, Time-Stddev MAE=0.5791
+[VAL] pr: RMSE=2.2078, Time-Mean RMSE=0.4088, Time-Stddev MAE=0.6592
+[Epoch 86] Train Loss: 0.1570
+
+
+[Epoch 87] Val Loss: 0.2038
+[VAL] tas: RMSE=2.7149, Time-Mean RMSE=1.6505, Time-Stddev MAE=0.5838
+[VAL] pr: RMSE=2.2148, Time-Mean RMSE=0.3986, Time-Stddev MAE=0.6582
+[Epoch 87] Train Loss: 0.1585
+
+
+[Epoch 88] Val Loss: 0.2034
+[VAL] tas: RMSE=2.7128, Time-Mean RMSE=1.6650, Time-Stddev MAE=0.5785
+[VAL] pr: RMSE=2.2113, Time-Mean RMSE=0.4058, Time-Stddev MAE=0.6592
+[Epoch 88] Train Loss: 0.1443
+
+
+[Epoch 89] Val Loss: 0.2016
+[VAL] tas: RMSE=2.6955, Time-Mean RMSE=1.6629, Time-Stddev MAE=0.5802
+[VAL] pr: RMSE=2.2026, Time-Mean RMSE=0.4091, Time-Stddev MAE=0.6565
+[Epoch 89] Train Loss: 0.1335
+
+
+[Epoch 90] Val Loss: 0.2023
+[VAL] tas: RMSE=2.7078, Time-Mean RMSE=1.6687, Time-Stddev MAE=0.5816
+[VAL] pr: RMSE=2.2057, Time-Mean RMSE=0.4059, Time-Stddev MAE=0.6556
+[Epoch 90] Train Loss: 0.1570
+
+
+[Epoch 91] Val Loss: 0.2011
+[VAL] tas: RMSE=2.6591, Time-Mean RMSE=1.6041, Time-Stddev MAE=0.5795
+[VAL] pr: RMSE=2.2009, Time-Mean RMSE=0.3987, Time-Stddev MAE=0.6584
+[Epoch 91] Train Loss: 0.1520
+
+
+[Epoch 92] Val Loss: 0.2032
+[VAL] tas: RMSE=2.7325, Time-Mean RMSE=1.7020, Time-Stddev MAE=0.5817
+[VAL] pr: RMSE=2.2094, Time-Mean RMSE=0.4085, Time-Stddev MAE=0.6542
+[Epoch 92] Train Loss: 0.1202
+
+
+[Epoch 93] Val Loss: 0.2013
+[VAL] tas: RMSE=2.6862, Time-Mean RMSE=1.6542, Time-Stddev MAE=0.5811
+[VAL] pr: RMSE=2.2006, Time-Mean RMSE=0.4077, Time-Stddev MAE=0.6538
+[Epoch 93] Train Loss: 0.1502
+
+
+[Epoch 94] Val Loss: 0.2027
+[VAL] tas: RMSE=2.7281, Time-Mean RMSE=1.7057, Time-Stddev MAE=0.5800
+[VAL] pr: RMSE=2.2064, Time-Mean RMSE=0.4122, Time-Stddev MAE=0.6548
+[Epoch 94] Train Loss: 0.1536
+
+
+[Epoch 95] Val Loss: 0.2017
+[VAL] tas: RMSE=2.6746, Time-Mean RMSE=1.6184, Time-Stddev MAE=0.5795
+[VAL] pr: RMSE=2.2032, Time-Mean RMSE=0.3941, Time-Stddev MAE=0.6598
+[Epoch 95] Train Loss: 0.1421
+
+
+[Epoch 96] Val Loss: 0.2025
+[VAL] tas: RMSE=2.7181, Time-Mean RMSE=1.6872, Time-Stddev MAE=0.5829
+[VAL] pr: RMSE=2.2060, Time-Mean RMSE=0.4049, Time-Stddev MAE=0.6552
+[Epoch 96] Train Loss: 0.1636
+
+
+[Epoch 97] Val Loss: 0.2033
+[VAL] tas: RMSE=2.7286, Time-Mean RMSE=1.6897, Time-Stddev MAE=0.5848
+[VAL] pr: RMSE=2.2106, Time-Mean RMSE=0.4066, Time-Stddev MAE=0.6544
+[Epoch 97] Train Loss: 0.1447
+
+
+[Epoch 98] Val Loss: 0.2034
+[VAL] tas: RMSE=2.7330, Time-Mean RMSE=1.7005, Time-Stddev MAE=0.5843
+[VAL] pr: RMSE=2.2107, Time-Mean RMSE=0.4090, Time-Stddev MAE=0.6525
+[Epoch 98] Train Loss: 0.1464
+
+
+INFO: `Trainer.fit` stopped: `max_epochs=100` reached.
+
+
+[Epoch 99] Val Loss: 0.2032
+[VAL] tas: RMSE=2.7339, Time-Mean RMSE=1.7081, Time-Stddev MAE=0.5823
+[VAL] pr: RMSE=2.2095, Time-Mean RMSE=0.4111, Time-Stddev MAE=0.6533
+[Epoch 99] Train Loss: 0.1372
