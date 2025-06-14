@@ -1,0 +1,465 @@
+INFO: Metric val/loss improved. New best score: 0.703
+
+
+[Epoch 0] Val Loss: 0.7029
+[VAL] tas: RMSE=16.0780, Time-Mean RMSE=15.2877, Time-Stddev MAE=3.2834
+[VAL] pr: RMSE=3.1670, Time-Mean RMSE=1.4501, Time-Stddev MAE=2.1102
+[Epoch 0] Train Loss: 0.6501
+[Epoch 0] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.175 >= min_delta = 0.0. New best score: 0.528
+
+
+[Epoch 1] Val Loss: 0.5283
+[VAL] tas: RMSE=11.8901, Time-Mean RMSE=10.8138, Time-Stddev MAE=3.3742
+[VAL] pr: RMSE=2.9975, Time-Mean RMSE=1.0370, Time-Stddev MAE=2.1298
+[Epoch 1] Train Loss: 0.5297
+[Epoch 1] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.054 >= min_delta = 0.0. New best score: 0.474
+
+
+[Epoch 2] Val Loss: 0.4739
+[VAL] tas: RMSE=10.4263, Time-Mean RMSE=9.2032, Time-Stddev MAE=3.4056
+[VAL] pr: RMSE=2.9495, Time-Mean RMSE=0.8960, Time-Stddev MAE=2.1347
+[Epoch 2] Train Loss: 0.4598
+[Epoch 2] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.036 >= min_delta = 0.0. New best score: 0.438
+
+
+[Epoch 3] Val Loss: 0.4380
+[VAL] tas: RMSE=9.5102, Time-Mean RMSE=8.2970, Time-Stddev MAE=3.0039
+[VAL] pr: RMSE=2.9099, Time-Mean RMSE=0.8481, Time-Stddev MAE=2.0398
+[Epoch 3] Train Loss: 0.4227
+[Epoch 3] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.043 >= min_delta = 0.0. New best score: 0.395
+
+
+[Epoch 4] Val Loss: 0.3946
+[VAL] tas: RMSE=8.7630, Time-Mean RMSE=7.7745, Time-Stddev MAE=2.1214
+[VAL] pr: RMSE=2.8001, Time-Mean RMSE=0.7718, Time-Stddev MAE=1.7038
+[Epoch 4] Train Loss: 0.3551
+[Epoch 4] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.021 >= min_delta = 0.0. New best score: 0.374
+
+
+[Epoch 5] Val Loss: 0.3741
+[VAL] tas: RMSE=8.1987, Time-Mean RMSE=7.2318, Time-Stddev MAE=1.8924
+[VAL] pr: RMSE=2.7623, Time-Mean RMSE=0.7166, Time-Stddev MAE=1.5835
+[Epoch 5] Train Loss: 0.3596
+[Epoch 5] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.016 >= min_delta = 0.0. New best score: 0.358
+
+
+[Epoch 6] Val Loss: 0.3585
+[VAL] tas: RMSE=7.5783, Time-Mean RMSE=6.5806, Time-Stddev MAE=1.7797
+[VAL] pr: RMSE=2.7421, Time-Mean RMSE=0.6718, Time-Stddev MAE=1.5633
+[Epoch 6] Train Loss: 0.3185
+[Epoch 6] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.014 >= min_delta = 0.0. New best score: 0.345
+
+
+[Epoch 7] Val Loss: 0.3448
+[VAL] tas: RMSE=7.1188, Time-Mean RMSE=6.1447, Time-Stddev MAE=1.6562
+[VAL] pr: RMSE=2.7085, Time-Mean RMSE=0.6368, Time-Stddev MAE=1.5026
+[Epoch 7] Train Loss: 0.3197
+[Epoch 7] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.011 >= min_delta = 0.0. New best score: 0.334
+
+
+[Epoch 8] Val Loss: 0.3340
+[VAL] tas: RMSE=6.6208, Time-Mean RMSE=5.6222, Time-Stddev MAE=1.5805
+[VAL] pr: RMSE=2.6898, Time-Mean RMSE=0.6138, Time-Stddev MAE=1.4755
+[Epoch 8] Train Loss: 0.2855
+[Epoch 8] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.010 >= min_delta = 0.0. New best score: 0.324
+
+
+[Epoch 9] Val Loss: 0.3238
+[VAL] tas: RMSE=6.2348, Time-Mean RMSE=5.2226, Time-Stddev MAE=1.5248
+[VAL] pr: RMSE=2.6699, Time-Mean RMSE=0.6123, Time-Stddev MAE=1.4509
+[Epoch 9] Train Loss: 0.2935
+[Epoch 9] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.025 >= min_delta = 0.0. New best score: 0.299
+
+
+[Epoch 10] Val Loss: 0.2993
+[VAL] tas: RMSE=5.7680, Time-Mean RMSE=4.8138, Time-Stddev MAE=1.5248
+[VAL] pr: RMSE=2.5792, Time-Mean RMSE=0.5492, Time-Stddev MAE=1.4212
+[Epoch 10] Train Loss: 0.2819
+[Epoch 10] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.004 >= min_delta = 0.0. New best score: 0.295
+
+
+[Epoch 11] Val Loss: 0.2948
+[VAL] tas: RMSE=5.6708, Time-Mean RMSE=4.5867, Time-Stddev MAE=1.5402
+[VAL] pr: RMSE=2.5647, Time-Mean RMSE=0.5638, Time-Stddev MAE=1.3334
+[Epoch 11] Train Loss: 0.2762
+[Epoch 11] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.023 >= min_delta = 0.0. New best score: 0.272
+
+
+[Epoch 12] Val Loss: 0.2716
+[VAL] tas: RMSE=5.3812, Time-Mean RMSE=4.3963, Time-Stddev MAE=1.4006
+[VAL] pr: RMSE=2.4651, Time-Mean RMSE=0.5684, Time-Stddev MAE=1.1981
+[Epoch 12] Train Loss: 0.2381
+[Epoch 12] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.012 >= min_delta = 0.0. New best score: 0.260
+
+
+[Epoch 13] Val Loss: 0.2599
+[VAL] tas: RMSE=5.0743, Time-Mean RMSE=4.0426, Time-Stddev MAE=1.3719
+[VAL] pr: RMSE=2.4215, Time-Mean RMSE=0.5342, Time-Stddev MAE=1.1203
+[Epoch 13] Train Loss: 0.2318
+[Epoch 13] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.014 >= min_delta = 0.0. New best score: 0.246
+
+
+[Epoch 14] Val Loss: 0.2461
+[VAL] tas: RMSE=4.8752, Time-Mean RMSE=3.9074, Time-Stddev MAE=1.2943
+[VAL] pr: RMSE=2.3562, Time-Mean RMSE=0.5439, Time-Stddev MAE=1.0776
+[Epoch 14] Train Loss: 0.2195
+[Epoch 14] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.009 >= min_delta = 0.0. New best score: 0.237
+
+
+[Epoch 15] Val Loss: 0.2374
+[VAL] tas: RMSE=4.5933, Time-Mean RMSE=3.6127, Time-Stddev MAE=1.3001
+[VAL] pr: RMSE=2.3269, Time-Mean RMSE=0.4994, Time-Stddev MAE=1.0568
+[Epoch 15] Train Loss: 0.2305
+[Epoch 15] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.005 >= min_delta = 0.0. New best score: 0.232
+
+
+[Epoch 16] Val Loss: 0.2321
+[VAL] tas: RMSE=4.3350, Time-Mean RMSE=3.3393, Time-Stddev MAE=1.2653
+[VAL] pr: RMSE=2.3105, Time-Mean RMSE=0.5226, Time-Stddev MAE=1.0441
+[Epoch 16] Train Loss: 0.1981
+[Epoch 16] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.008 >= min_delta = 0.0. New best score: 0.224
+
+
+[Epoch 17] Val Loss: 0.2238
+[VAL] tas: RMSE=4.1036, Time-Mean RMSE=3.1457, Time-Stddev MAE=1.1685
+[VAL] pr: RMSE=2.2767, Time-Mean RMSE=0.4898, Time-Stddev MAE=1.0063
+[Epoch 17] Train Loss: 0.1874
+[Epoch 17] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.002 >= min_delta = 0.0. New best score: 0.222
+
+
+[Epoch 18] Val Loss: 0.2219
+[VAL] tas: RMSE=3.9598, Time-Mean RMSE=3.0419, Time-Stddev MAE=1.0888
+[VAL] pr: RMSE=2.2734, Time-Mean RMSE=0.4987, Time-Stddev MAE=0.9769
+[Epoch 18] Train Loss: 0.2002
+[Epoch 18] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.006 >= min_delta = 0.0. New best score: 0.216
+
+
+[Epoch 19] Val Loss: 0.2156
+[VAL] tas: RMSE=3.7753, Time-Mean RMSE=2.7834, Time-Stddev MAE=1.1040
+[VAL] pr: RMSE=2.2436, Time-Mean RMSE=0.4885, Time-Stddev MAE=0.9346
+[Epoch 19] Train Loss: 0.1901
+[Epoch 19] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.006 >= min_delta = 0.0. New best score: 0.209
+
+
+[Epoch 20] Val Loss: 0.2093
+[VAL] tas: RMSE=3.6302, Time-Mean RMSE=2.6838, Time-Stddev MAE=1.0163
+[VAL] pr: RMSE=2.2121, Time-Mean RMSE=0.4782, Time-Stddev MAE=0.8950
+[Epoch 20] Train Loss: 0.1849
+[Epoch 20] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.209
+
+
+[Epoch 21] Val Loss: 0.2086
+[VAL] tas: RMSE=3.5327, Time-Mean RMSE=2.5592, Time-Stddev MAE=0.9987
+[VAL] pr: RMSE=2.2140, Time-Mean RMSE=0.4976, Time-Stddev MAE=0.8704
+[Epoch 21] Train Loss: 0.1735
+[Epoch 21] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.207
+
+
+[Epoch 22] Val Loss: 0.2075
+[VAL] tas: RMSE=3.3958, Time-Mean RMSE=2.3771, Time-Stddev MAE=1.0405
+[VAL] pr: RMSE=2.2139, Time-Mean RMSE=0.4783, Time-Stddev MAE=0.8558
+[Epoch 22] Train Loss: 0.1751
+[Epoch 22] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.014 >= min_delta = 0.0. New best score: 0.194
+
+
+[Epoch 23] Val Loss: 0.1937
+[VAL] tas: RMSE=3.2685, Time-Mean RMSE=2.3419, Time-Stddev MAE=0.9890
+[VAL] pr: RMSE=2.1399, Time-Mean RMSE=0.4326, Time-Stddev MAE=0.8473
+[Epoch 23] Train Loss: 0.1735
+[Epoch 23] Current LR: 0.000050
+
+
+[Epoch 24] Val Loss: 0.2007
+[VAL] tas: RMSE=3.2977, Time-Mean RMSE=2.3319, Time-Stddev MAE=0.9543
+[VAL] pr: RMSE=2.1785, Time-Mean RMSE=0.4403, Time-Stddev MAE=0.8328
+[Epoch 24] Train Loss: 0.1859
+[Epoch 24] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.004 >= min_delta = 0.0. New best score: 0.190
+
+
+[Epoch 25] Val Loss: 0.1897
+[VAL] tas: RMSE=3.0812, Time-Mean RMSE=2.1711, Time-Stddev MAE=0.9237
+[VAL] pr: RMSE=2.1237, Time-Mean RMSE=0.4646, Time-Stddev MAE=0.8236
+[Epoch 25] Train Loss: 0.1635
+[Epoch 25] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.003 >= min_delta = 0.0. New best score: 0.187
+
+
+[Epoch 26] Val Loss: 0.1865
+[VAL] tas: RMSE=2.9620, Time-Mean RMSE=2.0038, Time-Stddev MAE=0.9337
+[VAL] pr: RMSE=2.1075, Time-Mean RMSE=0.4182, Time-Stddev MAE=0.8070
+[Epoch 26] Train Loss: 0.1719
+[Epoch 26] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.002 >= min_delta = 0.0. New best score: 0.185
+
+
+[Epoch 27] Val Loss: 0.1847
+[VAL] tas: RMSE=2.9184, Time-Mean RMSE=2.0138, Time-Stddev MAE=0.8524
+[VAL] pr: RMSE=2.1002, Time-Mean RMSE=0.4376, Time-Stddev MAE=0.8094
+[Epoch 27] Train Loss: 0.1702
+[Epoch 27] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.184
+
+
+[Epoch 28] Val Loss: 0.1838
+[VAL] tas: RMSE=2.8653, Time-Mean RMSE=1.9529, Time-Stddev MAE=0.8477
+[VAL] pr: RMSE=2.0948, Time-Mean RMSE=0.4144, Time-Stddev MAE=0.8050
+[Epoch 28] Train Loss: 0.1691
+[Epoch 28] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.002 >= min_delta = 0.0. New best score: 0.182
+
+
+[Epoch 29] Val Loss: 0.1821
+[VAL] tas: RMSE=2.8544, Time-Mean RMSE=1.9630, Time-Stddev MAE=0.8483
+[VAL] pr: RMSE=2.0860, Time-Mean RMSE=0.4182, Time-Stddev MAE=0.7803
+[Epoch 29] Train Loss: 0.1594
+[Epoch 29] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.003 >= min_delta = 0.0. New best score: 0.179
+
+
+[Epoch 30] Val Loss: 0.1792
+[VAL] tas: RMSE=2.7417, Time-Mean RMSE=1.8066, Time-Stddev MAE=0.8648
+[VAL] pr: RMSE=2.0709, Time-Mean RMSE=0.3967, Time-Stddev MAE=0.7886
+[Epoch 30] Train Loss: 0.1629
+[Epoch 30] Current LR: 0.000050
+
+
+[Epoch 31] Val Loss: 0.1800
+[VAL] tas: RMSE=2.7303, Time-Mean RMSE=1.7917, Time-Stddev MAE=0.8294
+[VAL] pr: RMSE=2.0775, Time-Mean RMSE=0.3907, Time-Stddev MAE=0.7731
+[Epoch 31] Train Loss: 0.1708
+[Epoch 31] Current LR: 0.000050
+
+
+[Epoch 32] Val Loss: 0.1816
+[VAL] tas: RMSE=2.7051, Time-Mean RMSE=1.7692, Time-Stddev MAE=0.8090
+[VAL] pr: RMSE=2.0875, Time-Mean RMSE=0.4056, Time-Stddev MAE=0.7867
+[Epoch 32] Train Loss: 0.1610
+[Epoch 32] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.003 >= min_delta = 0.0. New best score: 0.176
+
+
+[Epoch 33] Val Loss: 0.1764
+[VAL] tas: RMSE=2.6457, Time-Mean RMSE=1.7010, Time-Stddev MAE=0.8325
+[VAL] pr: RMSE=2.0568, Time-Mean RMSE=0.3805, Time-Stddev MAE=0.7702
+[Epoch 33] Train Loss: 0.1507
+[Epoch 33] Current LR: 0.000050
+
+
+[Epoch 34] Val Loss: 0.1779
+[VAL] tas: RMSE=2.5929, Time-Mean RMSE=1.6369, Time-Stddev MAE=0.8125
+[VAL] pr: RMSE=2.0688, Time-Mean RMSE=0.4046, Time-Stddev MAE=0.7723
+[Epoch 34] Train Loss: 0.1539
+[Epoch 34] Current LR: 0.000050
+
+
+[Epoch 35] Val Loss: 0.1787
+[VAL] tas: RMSE=2.5937, Time-Mean RMSE=1.6740, Time-Stddev MAE=0.7816
+[VAL] pr: RMSE=2.0721, Time-Mean RMSE=0.4070, Time-Stddev MAE=0.7687
+[Epoch 35] Train Loss: 0.1615
+[Epoch 35] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.002 >= min_delta = 0.0. New best score: 0.174
+
+
+[Epoch 36] Val Loss: 0.1744
+[VAL] tas: RMSE=2.5009, Time-Mean RMSE=1.5547, Time-Stddev MAE=0.7737
+[VAL] pr: RMSE=2.0500, Time-Mean RMSE=0.3671, Time-Stddev MAE=0.7331
+[Epoch 36] Train Loss: 0.1508
+[Epoch 36] Current LR: 0.000050
+
+
+[Epoch 37] Val Loss: 0.1745
+[VAL] tas: RMSE=2.4924, Time-Mean RMSE=1.5699, Time-Stddev MAE=0.7631
+[VAL] pr: RMSE=2.0502, Time-Mean RMSE=0.3800, Time-Stddev MAE=0.7352
+[Epoch 37] Train Loss: 0.1489
+[Epoch 37] Current LR: 0.000050
+
+
+[Epoch 38] Val Loss: 0.1747
+[VAL] tas: RMSE=2.4413, Time-Mean RMSE=1.5097, Time-Stddev MAE=0.7608
+[VAL] pr: RMSE=2.0534, Time-Mean RMSE=0.3928, Time-Stddev MAE=0.7341
+[Epoch 38] Train Loss: 0.1685
+[Epoch 38] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.173
+
+
+[Epoch 39] Val Loss: 0.1735
+[VAL] tas: RMSE=2.4123, Time-Mean RMSE=1.4961, Time-Stddev MAE=0.7312
+[VAL] pr: RMSE=2.0473, Time-Mean RMSE=0.3784, Time-Stddev MAE=0.7340
+[Epoch 39] Train Loss: 0.1567
+[Epoch 39] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.173
+
+
+[Epoch 40] Val Loss: 0.1726
+[VAL] tas: RMSE=2.3976, Time-Mean RMSE=1.4814, Time-Stddev MAE=0.7206
+[VAL] pr: RMSE=2.0422, Time-Mean RMSE=0.3628, Time-Stddev MAE=0.7326
+[Epoch 40] Train Loss: 0.1515
+[Epoch 40] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.172
+
+
+[Epoch 41] Val Loss: 0.1718
+[VAL] tas: RMSE=2.3330, Time-Mean RMSE=1.4065, Time-Stddev MAE=0.6952
+[VAL] pr: RMSE=2.0403, Time-Mean RMSE=0.3658, Time-Stddev MAE=0.7390
+[Epoch 41] Train Loss: 0.1489
+[Epoch 41] Current LR: 0.000050
+
+
+[Epoch 42] Val Loss: 0.1727
+[VAL] tas: RMSE=2.3709, Time-Mean RMSE=1.4616, Time-Stddev MAE=0.7255
+[VAL] pr: RMSE=2.0432, Time-Mean RMSE=0.3734, Time-Stddev MAE=0.7253
+[Epoch 42] Train Loss: 0.1460
+[Epoch 42] Current LR: 0.000050
+
+
+[Epoch 43] Val Loss: 0.1722
+[VAL] tas: RMSE=2.3300, Time-Mean RMSE=1.4381, Time-Stddev MAE=0.6799
+[VAL] pr: RMSE=2.0424, Time-Mean RMSE=0.3777, Time-Stddev MAE=0.7324
+[Epoch 43] Train Loss: 0.1501
+[Epoch 43] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.000 >= min_delta = 0.0. New best score: 0.171
+
+
+[Epoch 44] Val Loss: 0.1715
+[VAL] tas: RMSE=2.3464, Time-Mean RMSE=1.4183, Time-Stddev MAE=0.7197
+[VAL] pr: RMSE=2.0357, Time-Mean RMSE=0.3528, Time-Stddev MAE=0.7317
+[Epoch 44] Train Loss: 0.1566
+[Epoch 44] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.001 >= min_delta = 0.0. New best score: 0.171
+
+
+[Epoch 45] Val Loss: 0.1709
+[VAL] tas: RMSE=2.2689, Time-Mean RMSE=1.3621, Time-Stddev MAE=0.6773
+[VAL] pr: RMSE=2.0362, Time-Mean RMSE=0.3493, Time-Stddev MAE=0.7406
+[Epoch 45] Train Loss: 0.1441
+[Epoch 45] Current LR: 0.000050
+
+
+INFO: Metric val/loss improved by 0.000 >= min_delta = 0.0. New best score: 0.171
+
+
+[Epoch 46] Val Loss: 0.1705
+[VAL] tas: RMSE=2.2447, Time-Mean RMSE=1.3408, Time-Stddev MAE=0.6681
+[VAL] pr: RMSE=2.0348, Time-Mean RMSE=0.3520, Time-Stddev MAE=0.7375
+[Epoch 46] Train Loss: 0.1465
+[Epoch 46] Current LR: 0.000050
+
+
+[Epoch 47] Val Loss: 0.1706
+[VAL] tas: RMSE=2.2302, Time-Mean RMSE=1.3250, Time-Stddev MAE=0.6708
+[VAL] pr: RMSE=2.0356, Time-Mean RMSE=0.3606, Time-Stddev MAE=0.7279
+[Epoch 47] Train Loss: 0.1480
+[Epoch 47] Current LR: 0.000050
+
+
+[Epoch 48] Val Loss: 0.1716
+[VAL] tas: RMSE=2.2497, Time-Mean RMSE=1.3339, Time-Stddev MAE=0.7103
+[VAL] pr: RMSE=2.0402, Time-Mean RMSE=0.3761, Time-Stddev MAE=0.7211
+[Epoch 48] Train Loss: 0.1413
+[Epoch 48] Current LR: 0.000050
+
+
+INFO: `Trainer.fit` stopped: `max_epochs=50` reached.
+
+
+[Epoch 49] Val Loss: 0.1705
+[VAL] tas: RMSE=2.2104, Time-Mean RMSE=1.3028, Time-Stddev MAE=0.6623
+[VAL] pr: RMSE=2.0346, Time-Mean RMSE=0.3535, Time-Stddev MAE=0.7288
+[Epoch 49] Train Loss: 0.1559
+[Epoch 49] Current LR: 0.000050
